@@ -1,0 +1,3 @@
+https://api.github.com/repos/PaddeCraft/Log4py/zipball
+requests
+typer
